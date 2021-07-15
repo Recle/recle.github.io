@@ -26,7 +26,7 @@
   <entry>
     <title>Python配置环境</title>
     <url>/2020/10/07/Python%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</url>
-    <content><![CDATA[<h1 id="Python配置环境"><a href="#Python配置环境" class="headerlink" title="Python配置环境"></a>Python配置环境</h1><ol>
+    <content><![CDATA[<ol>
 <li>WEB开发</li>
 </ol>
 <p>Python拥有很多免费数据函数库、免费web网页模板系统、以及与web服务器进行交互的库，可以实现web开发，搭建web框架，目前比较有名气的Python web框架为Django。从事该领域应从数据、组件、安全等多领域进行学习，从底层了解其工作原理并可驾驭任何业内主流的Web框架。</p>
@@ -103,7 +103,8 @@
   <entry>
     <title>PR基础操作</title>
     <url>/2020/12/28/PR%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</url>
-    <content><![CDATA[<h1 id="PR基础操作"><a href="#PR基础操作" class="headerlink" title="PR基础操作"></a>PR基础操作</h1><p>ctrl+k快速剪切<br>q 掐头<br>w 去尾<br>加锁</p>
+    <content><![CDATA[<hr>
+<h1 id="PR基础操作"><a href="#PR基础操作" class="headerlink" title="PR基础操作"></a>PR基础操作</h1><p>ctrl+k快速剪切<br>q 掐头<br>w 去尾<br>加锁</p>
 <h2 id="1-项目与序列新建"><a href="#1-项目与序列新建" class="headerlink" title="1.项目与序列新建"></a>1.项目与序列新建</h2><ul>
 <li><p>新建项目</p>
 </li>
@@ -288,7 +289,8 @@
   <entry>
     <title>钱从哪来？中国社会阶层/圈层收益的粗浅观察</title>
     <url>/2020/11/24/%E9%92%B1%E4%BB%8E%E5%93%AA%E6%9D%A5%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82.%E5%9C%88%E5%B1%82%E6%94%B6%E7%9B%8A%E7%9A%84%E7%B2%97%E6%B5%85%E8%A7%82%E5%AF%9F/</url>
-    <content><![CDATA[<h1 id="钱从哪来？中国社会阶层-圈层收益的粗浅观察"><a href="#钱从哪来？中国社会阶层-圈层收益的粗浅观察" class="headerlink" title="钱从哪来？中国社会阶层/圈层收益的粗浅观察"></a>钱从哪来？中国社会阶层/圈层收益的粗浅观察</h1><ul>
+    <content><![CDATA[<hr>
+<ul>
 <li>资本家的钱从哪来</li>
 </ul>
 <p>&ensp;&ensp;&ensp;&ensp;- 早期资本积累</p>
